@@ -5,7 +5,9 @@
   "location": "São Paulo - SP",
   "phone": "(16) 98159-7656",
   "email": "renanjohannsen@gmail.com",
-  "sobre": "Sou Desenvolvedor Backend em busca da primeira oportunidade na área. Dedico meus estudos no Backend com Java/Spring e no Frontend com TypeScript/Angular.<br> Formado em Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.<br> Atualmente trabalho em Metalúrgica, onde já passei por vários cargos e aprimorei minhas habilidades em: resoluções de problemas, entrega de resultados, trabalho em equipe, boa comunicação, adaptação em outras funções, comprometimento, organização, saber ouvir, compartilhar conhecimento, buscar conhecimento.<br> Também sou formado em Técnico Mecatrônica, onde tinha matérias de programação na grade. Entre elas linguagem C para microcontrolador, e Delphi para interface com o usuário. Nessa época também comecei a fazer manutenção de PCs para amigos e conhecidos. Foi aí que meus olhos brilharam para a área.",
+  "sobre1": "Sou Desenvolvedor Backend em busca da primeira oportunidade na área. Dedico meus estudos no Backend com Java/Spring e no Frontend com TypeScript/Angular. Formado em Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.",
+  "sobre2": "Atualmente trabalho em Metalúrgica, onde já passei por vários cargos e aprimorei minhas habilidades em: resoluções de problemas, entrega de resultados, trabalho em equipe, boa comunicação, adaptação em outras funções, comprometimento, organização, saber ouvir, compartilhar conhecimento, buscar conhecimento.",
+  "sobre3": "Também sou formado em Técnico Mecatrônica, onde tinha matérias de programação na grade. Entre elas linguagem C para microcontrolador, e Delphi para interface com o usuário. Nessa época também comecei a fazer manutenção de PCs para amigos e conhecidos. Foi aí que meus olhos brilharam para a área.",
   "skills": {
     "hardSkills": [
       {
